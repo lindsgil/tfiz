@@ -1,0 +1,171 @@
+{
+    "shows": [{
+        "title": "Big Little Lies",
+        "year": "2017",
+        "fact": "Nicole Kidman was once engaged to Lenny Kravitz.",
+        "description": "Based on the book by Liane Moriarty, this dark comedic drama that weaves a tale of murder and mischief as it explores society’s myth of perfection. ",
+        "poster": "bll.jpg",
+        "imdbID": "tt1856010",
+        "trailer": "WpMa8YFcjtE"
+    }, {
+        "title": "Lucky Louie",
+        "year": "2006-2007",
+        "fact": "Lucky Louie was filmed before a live studio audience.",
+        "description": "Developed by Louis C.K., a sitcom that tells the story of a blue-collar couple raising their young daughter",
+        "poster": "lucky.jpg",
+        "imdbID": "tt3322312",
+        "trailer": "KEtAfAa67TY"
+    }, {
+        "title": "Silicon Valley",
+        "year": "2014–",
+        "fact": "There are fan-made websites for calculating a Weissman Score.",
+        "description": "In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success.",
+        "poster": "silval.jpg",
+        "imdbID": "tt2372162",
+        "trailer": "69V__a49xtw"
+    }, {
+        "title": "West World",
+        "year": "2016–",
+        "fact": "The budget for the first series was around $100 million.",
+        "description": "Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+        "poster": "ww.jpg",
+        "imdbID": "tt0367279",
+        "trailer": "JctIuZfSsa4"
+    }, {
+        "title": "True Blood",
+        "year": "2008-2014",
+        "fact": "The opening sequence won an Emmy in 2009 for Outstanding Main Title Design.",
+        "description": "Thanks to a Japanese scientist's invention of synthetic blood, vampires have progressed from legendary monsters to fellow citizens overnight.",
+        "poster": "tb.jpg",
+        "imdbID": "tt3339966",
+        "trailer": "hE8wwYzKJOs"
+    }, {
+        "title": "The Larry Sanders Show",
+        "year": "1992-1998",
+        "fact": "The Hey Now episode was actually the first episode written and produced.",
+        "description": "Created by and starring Garry Shandling as a fictional late-night talk-show host.",
+        "poster": "tls.jpg",
+        "imdbID": "tt2189461",
+        "trailer": "rK58Nr8f4zU"
+    }, {
+        "title": "Enlightened",
+        "year": "2011-2013",
+        "fact": "Laura Dern's film debut was a cameo in her mother's film White Lightning.",
+        "description": "A well-intentioned employee who, after flipping out and going to anger-management rehab, emerges with a mission to make her company more responsible.",
+        "poster": "enli.jpg",
+        "imdbID": "tt3520702",
+        "trailer": "LBq_J08srVA"
+    }, {
+        "title": "Six Feet Under",
+        "year": "2001-2005",
+        "fact": "The opening sequence was shot in Seattle.",
+        "description": "The cathartic journey of the Fisher family, whose personal trials and tribulations are played out against the reflective backdrop of an independent funeral home in LA.",
+        "poster": "6ft.jpg",
+        "imdbID": "tt3398228",
+        "trailer": "E3gYi-KvKug"
+    }, {
+        "title": "Grey Gardens",
+        "year": "2009",
+        "fact": "Little Edie had a night club cabaret show after the movie.",
+        "description": "Using the original documentary as the film's framework, the film focuses on their glamorous and well-heeled lives long before the making of the documentary.",
+        "poster": "gg.jpg",
+        "imdbID": "tt2309295",
+        "trailer": "3LXmQfbp-LM"
+    }, {
+        "title": "The Sopranos",
+        "year": "1999-2007",
+        "fact": "Livia Soprano was supposed to die in season 1.",
+        "description": "The series portrays the difficulties Tony Soprano faces as he tries to balance the conflicting requirements of his home life and his criminal organization.",
+        "poster": "ts.jpg",
+        "imdbID": "tt1637727",
+        "trailer": "NZNOUAbHSgk"
+    }, {
+        "title": "The Wire",
+        "year": "2002-2008",
+        "fact": "Barack Obama has cited it as his favorite show.",
+        "description": "Baltimore drug scene, seen through the eyes of drug dealers and law enforcement.",
+        "poster": "wire.jpg",
+        "imdbID": "tt4061080",
+        "trailer": "uDcQbk78CSw"
+    }, {
+        "title": "Behind The Candelabra",
+        "year": "2013",
+        "fact": "Mr. Showmanship learned to play piano by ear by the age of 4.",
+        "description": "A chronicle of the tempestuous six year romance between megastar singer, Liberace, and his young lover, Scott Thorson.",
+        "poster": "bc.jpg",
+        "imdbID": "tt4635276",
+        "trailer": "TQ9OgbLCsUM"
+    }, {
+        "title": "Veep",
+        "year": "2012–",
+        "fact": "Armando Iannucci purposely didn't watch other American political shows when he developed Veep.",
+        "description": "Former Senator Selina Meyer finds that being Vice President of the United States is nothing like she hoped and everything that everyone ever warned her about.",
+        "poster": "veep.jpg",
+        "imdbID": "tt4973548",
+        "trailer": "xjF6Tp2PDss"
+    }, {
+        "title": "Curb Your Enthusiasm",
+        "year": "2000–",
+        "fact": "Each episode is based on an outline and no dialogue is ever written.",
+        "description": "The life and times of Larry David and the predicaments he gets himself in with his friends and complete strangers.",
+        "poster": "ce.jpg",
+        "imdbID": "tt2357547",
+        "trailer": "ynUHYh6Gzqo"
+    }, {
+        "title": "Insecure",
+        "year": "2016–",
+        "fact": "Issa Rae created the Web series 'The Misadventures of Awkward Black Girl'.",
+        "description": "Follows the awkward experiences and tribulations of a modern-day African-American woman.",
+        "poster": "ins.jpg",
+        "imdbID": "tt2707408",
+        "trailer": "YdKqUMZi5-I"
+    }, {
+        "title": "High Maintenance",
+        "year": "2016–",
+        "fact": "Nineteen episodes were made before partnering with HBO.",
+        "description": "A comedy that explores the private lives of unique New York individuals through a common thread: their weed deliveryman.",
+        "poster": "hm.jpg",
+        "imdbID": "tt4341500",
+        "trailer": "tjq1KotC_1E"
+    }, {
+        "title": "Bored To Death",
+        "year": "2009-2011",
+        "fact": "There has been talk about it becoming a movie.",
+        "description": "A well-meaning but struggling writer decides to lead a sort of double life by pretending to be a private detective using the methods he read about in old detective novels.",
+        "poster": "bod.jpg",
+        "imdbID": "tt4680240",
+        "trailer": "pX8e2HP-n2g"
+    }, {
+        "title": "Girls",
+        "year": "2012–2017",
+        "fact": "Girls is one of HBO's highest-rated series.",
+        "description": "A comedy about the experiences of a group of girls in their early 20s.",
+        "poster": "girls.jpg",
+        "imdbID": "tt5189670",
+        "trailer": "554bdNWCXmA"
+    }, {
+        "title": "The Leftovers",
+        "year": "2014–",
+        "fact": "No religious or scientific meaning exists for the disappearance.",
+        "description": "Three years after the disappearance of 2% of the global population, a group of people from New York struggle to continue their lives, while they cope with the tragedy of the unexplained nature of the event.",
+        "poster": "over.jpg",
+        "imdbID": "tt2431438",
+        "trailer": "FLT3YUALJno"
+    }, {
+        "title": "Not Necessarily The News",
+        "year": "1982-1990",
+        "fact": "It was Conan O'brien's first professional television writing gig.",
+        "description": "An offbeat look at current events, often by dubbing over news video with farcical commentary.",
+        "poster": "not.jpg",
+        "imdbID": "tt3986586",
+        "trailer": "UBcMCbGx6ug"
+    }, {
+        "title": "Game Of Thrones",
+        "year": "2011–",
+        "fact": "There's an unaired pilot.",
+        "description": "Nine noble families fight for control over the mythical lands of Westeros, while a forgotten race returns after being dormant for thousands of years.",
+        "poster": "got.jpg",
+        "imdbID": "tt4574708",
+        "trailer": "1Mlhnt0jMlg"
+    }]
+}

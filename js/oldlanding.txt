@@ -1,0 +1,63 @@
+import React from 'react'
+import { connect } from 'react-redux'
+import { Link } from 'react-router'
+import { setSearchTerm } from './actionCreators'
+import Header from './Header.js'
+const { string, func, object } = React.PropTypes
+
+const Landing = React.createClass({
+  contextTypes: {
+    router: object
+  },
+  propTypes: {
+    searchTerm: string,
+    dispatchSetSearchTerm: func
+  },
+  handleSearchTermChange (event) {
+    this.props.dispatchSetSearchTerm(event.target.value)
+  },
+  handleSearchSubmit (event) {
+    event.preventDefault()
+    this.context.router.transitionTo('/search')
+  },
+  render () {
+    return (
+      <div className='landing'>
+        <Header className='main-header' />
+        <iframe src='https://player.vimeo.com/video/191094791' width='640' height='360' frameBorder='0' webkitallowfullscreen mozallowfullscreen allowFullscreen />
+        <h1>Search My Favorite Media</h1>
+        <form onSubmit={this.handleSearchSubmit}>
+          <input onChange={this.handleSearchTermChange} value={this.props.searchTerm} type='text' placeholder='Search' />
+        </form>
+        <Link to='/search'>or Browse All</Link>
+      </div>
+    )
+  }
+})
+
+const mapStateToProps = (state) => {
+  return {
+    searchTerm: state.searchTerm
+  }
+}
+
+const mapDispatchToProps = (dispatch) => {
+  return {
+    dispatchSetSearchTerm (searchTerm) {
+      dispatch(setSearchTerm(searchTerm))
+    }
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Landing)
+
+
+
+
+<svg viewBox='0 0 100 100' width='400px'>
+  <path d='M25,2 L2,2 L2,25' fill='none' stroke='#bfffce' strokeWidth='1' transform='translate(2,2)' />
+  <path d='M2,75 L2,98 L25,98' fill='none' stroke='black' strokeWidth='3' />
+  <text x='0' y='50' fontFamily='HelveticaNeue-CondensedBlack' fontSize='10'>The Future is 0 is a satirical, live game show held at Northwest Film Forum featuring artists from different disciplines competing against each other in a battle of mental, physical, & psychological challenges.</text>
+  <path d='M75,98 L98,98 L98,75' fill='none' stroke='black' strokeWidth='3' />
+  <path d='M98,25 L98,2 L75,2' fill='none' stroke='black' strokeWidth='3' />
+</svg>
